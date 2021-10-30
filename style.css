@@ -1,0 +1,27 @@
+body
+{
+    font-family: 'PT Sans', sans-serif;
+    letter-spacing: 2px;
+}
+#semi_divideroftop
+{
+background-color: lightgray !important;
+top: 0;
+
+
+
+}
+#startbtn
+{
+    background-color: lightblue;
+    width: 35%;
+    height: 45%;
+}
+#btnandimg
+{
+    background-color: pink;
+}
+#author
+{
+    text-shadow: 5px;
+}
